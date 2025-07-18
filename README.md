@@ -6,7 +6,7 @@
 
 Bean Order is a booking system management software that focus on on-premise, ordering comfortable with every business branch.
 
-People can book a ticket/slot/good which has ordering, they can observe/measure these orders on livestream terminal in application, this means ticket/slot/good has identity order represent on terminal, with more information goes with this identity like status, progress process ticket/slot/good.
+People can book a ticket/slot/good which has ordering, they can observe/measure these orders on livestream terminal in application, this means ticket/slot/good has identity order represent on terminal, with more information goes with this identity like status, processing progress ticket/slot/good.
 
 Orders from Bean Order can be notified by eye/sound message through application and other message channel like email, sms, …, with fast code(qr code) to access/execute from smart watch.
 
