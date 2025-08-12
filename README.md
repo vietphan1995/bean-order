@@ -1,6 +1,8 @@
-# Bean Order
+# bean-order
 
-# Introduction
+## Bean Order
+
+### Introduction
 
 [https://github.com/vietphan1995/bean-order.git](https://github.com/vietphan1995/bean-order.git)
 
@@ -18,7 +20,7 @@ In climate change impact, this system help save paper to create booking identity
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
-### Notes:
-https://phantrungviet.notion.site/Bean-Order-1b25e832d6ee80ccb882edaf4ead5a9a
+### Notes
+https://phantrungviet.notion.site/bean-order-1b25e832d6ee80ccb882edaf4ead5a9a
